@@ -10,6 +10,18 @@
 
     <title> Ezgi & Ayetullah Nikah Davetiyesi </title>
     
+    <link href="assets/css/themify-icons.css" rel="stylesheet"><!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themegeniuslab.com/html/jolly/invitation.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Jun 2020 18:45:59 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="irstheme">
+
+    <title> Ezgi & Ayetullah Nikah Davetiyesi </title>
+    
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -68,8 +80,18 @@
         </header>
         <!-- end of header -->
 
+        <footer class="site-footer footer-style-1">
+            <div class="inner">
+                <div class="couple-pic">
+                    <img src="assets/images/eas.jpeg" alt>
+                </div>
+                
+            </div>
+        </footer>
+
 
         <!-- start page-title -->
+        <!--
         <section class="page-title">
             <div class="page-title-container">
                 <div class="page-title-wrapper">
@@ -78,8 +100,8 @@
                             <div class="col col-xs-12">
                                 <h2>Davetiye</h2>
                             </div>
-                        </div> <!-- end row -->
-                    </div> <!-- end container -->
+                        </div>
+                    </div> 
                 </div>
             </div>
             <div class="pattern">
@@ -90,6 +112,8 @@
                 <span></span>
             </div>
         </section>
+
+    -->
         <!-- end page-title -->
 
 
@@ -117,21 +141,20 @@
 
 
         <!-- start site-footer -->
-        <footer class="site-footer footer-style-1">
-            <div class="inner">
-                <div class="couple-pic">
-                    <img src="assets/images/eas.jpeg" alt>
-                </div>
-                <h2>Teşekkür Ederiz</h2>
 
-                <p>Copyright 2020, Made with love by <a href="http://themeforest.net/user/blue_design">Ezgi & Ayetullah</a></p>
-            </div>
-        </footer>
         <!-- end site-footer -->
 
 
     </div>
     <!-- end of page-wrapper -->
+
+    <footer class="site-footer footer-style-1">
+        <div class="inner">
+            <h2>Teşekkür Ederiz</h2>
+
+    <p>Copyright 2020, Made with love by <a href="http://themeforest.net/user/blue_design">Ezgi & Ayetullah</a></p>
+        </div>
+    </footer>
 
 
 
@@ -149,3 +172,5 @@
 
 <!-- Mirrored from themegeniuslab.com/html/jolly/invitation.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Jun 2020 18:47:07 GMT -->
 </html>
+
+    
